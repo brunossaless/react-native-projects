@@ -20,17 +20,17 @@
 </h4>
 
 <p align="left">
-  <a href="https://github.com/brunossaless/ROCKETSEAT_Studies" alt="RepoSize">
+  <a href="https://github.com/brunossaless/react-native-projects" alt="RepoSize">
 
-  <img height=24he src="https://img.shields.io/github/repo-size/brunossaless/ROCKETSEAT_Studies" /> </a>
+  <img height=24he src="https://img.shields.io/github/repo-size/brunossaless/react-native-projects" /> </a>
 
   <a href="#" alt="Languagens">
 
-  <img height=24he src="https://img.shields.io/github/languages/count/brunossaless/ROCKETSEAT_Studies" /> </a>
+  <img height=24he src="https://img.shields.io/github/languages/count/brunossaless/react-native-projects" /> </a>
 
   <a href="#" alt="Fork">
 
-  <img height=25he src="https://img.shields.io/github/stars/brunossaless/ROCKETSEAT_Studies?style=social" /> </a>
+  <img height=25he src="https://img.shields.io/github/stars/brunossaless/react-native-projects?style=social" /> </a>
 
   <a href="#" alt="Watch">
 
