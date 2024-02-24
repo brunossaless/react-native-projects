@@ -18,6 +18,6 @@
 
 ## Segue o vídeo do projeto:
 
-<video src='https://github.com/brunossales/ROCKETSEAT_Studies/blob/main/imgs/rentXVideo.mp4' width='180'> </video>
+<video src='https://github.com/brunossaless/react-native-projects/blob/main/img/rentXVideo.mp4' width='180'> </video>
 
 
